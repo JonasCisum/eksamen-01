@@ -330,7 +330,8 @@ iframe {
     }
 }
 
-.card {
+.card,
+.card2 {
     background-color: white;
     padding: 20px;
     box-shadow: 2px 4px 15px rgba(0, 0, 0, 0.1);
@@ -356,7 +357,8 @@ iframe {
     line-height: 1.6;
 }
 
-.card img {
+.card img,
+.card2 img {
     width: 100%;
     opacity: 1;
     transition: .3s ease;
